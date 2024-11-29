@@ -1,4 +1,8 @@
 from grobid_client.grobid_client import GrobidClient
 
-client = GrobidClient(config_path='./config.json')
-client.process('processFulltextDocument', input_path='../pdfs', n=20, output='../out')
+client = GrobidClient(config_path='config.json')
+client.process(
+    'processFulltextDocument', 
+    input_path='pdfs', 
+    output='out'
+)
