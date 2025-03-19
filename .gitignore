@@ -1,3 +1,4 @@
 /env/*
-/out/*
+/xml_tei/*
 /pdfs/*
+/csvs/*
