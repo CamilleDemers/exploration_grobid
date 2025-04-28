@@ -10,8 +10,8 @@ csvs = os.listdir('csvs')
 for csv in csvs:
     data = pd.read_csv(f'csvs/{csv}')
 
-    data['nb_tokens_openai_tiktoken'] = data['body'].apply(lambda x: len(tokenizer_tiktoken.encode(x)))
-    data['nb_tokens_mistral_sentencepiece'] = data['body'].apply(lambda x: len(tokenizer_mistral.encode(x)))
+    data['nb_tokens_openai_tiktoken'] = data['body'].astype(str).apply(lambda x: len(tokenizer_tiktoken.encode(x)))
+    data['nb_tokens_mistral_sentencepiece'] = data['body'].astype(str).apply(lambda x: len(tokenizer_mistral.encode(x)))
 
     data.to_csv(f'csvs/{csv}', index=False)
 

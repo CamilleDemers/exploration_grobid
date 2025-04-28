@@ -1,7 +1,6 @@
 /env/*
 /xml_tei/*
 /pdfs/*
-/csvs/*
 /txts/*
 config.py
 config.json
