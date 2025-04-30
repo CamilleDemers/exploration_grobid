@@ -1,0 +1,6 @@
+- deo:ProblemStatement : The issues that needed to be addressed by a work described in the document. This can be summarized into one short sentence.
+- deo:Data : The data used or produced in the work which the document describes, or the data themselves.
+- deo:Model : The model(s) used or produced by the work described in the publication.
+- deo:Methods : The specialized method(s) used in the work. The description of the methods is often combined with a description of the materials used, in a section entitled 'Methods and Materials', 'Experimental' or a related term.
+- deo:Results : The report of the specific findings of an investigation, given without discussion or conclusion being drawn.
+- deo:Evaluation : A consideration of the value, meaning and significance of the results obtained.

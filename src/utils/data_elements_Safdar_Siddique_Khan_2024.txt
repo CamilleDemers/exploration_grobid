@@ -1,0 +1,5 @@
+- Country: The country where the study was conducted.
+- Population: A description of the participants included in the study.
+- Sample size and tech: The size of the sample of participants and the sampling technique used to form the sample.
+- Tool: The research tool used to collect the data for the study.
+- Method: Whether the study followed a qualitative, quantitative of mixed methods research design.

@@ -1,0 +1,3 @@
+- Methodology: Whether the study followed a qualitative, quantitative or mixed methods research design
+- Sample : Size and nature of the sample used in the study
+- ICT : The Information and Communication Technologies (ICTs) used by the participants of the study. ICTs include search engines, social network sites, and smartphones

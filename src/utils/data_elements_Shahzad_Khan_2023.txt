@@ -1,0 +1,4 @@
+- Country: The country of the population analysed in the study.
+- Motivational factors toward PD: The motivational factors mentioned in the study leading toward professional development of librarians.
+- Relation between Motivation and Librarians' PD: The relationship between motivation and professional development mentioned in the study.
+- Challenges in implementation of PD activities: The challenges for the adoption of professional development activities in the participants' organizations.

@@ -1,0 +1,7 @@
+- Geographical breadth of research: The geographical location where the study took place.
+- Analysis method: Whether the study followed a qualitative, quantitative or mixed methods research design.
+- Data sources: The source of the data collected for the study.
+- Participants: A short description of the participants that form the sample of the study.
+- Participant size: The number of participants in the study.
+- Roles of Library Service Platforms (LSP): The roles or functions of Library Service Platforms mentioned in the study.
+- Challenges that libraries face: The challenges encountered by the participants of the study during the implementation of a Library Service Platform (LSP) or the challenges associated with a specific LSP. 
