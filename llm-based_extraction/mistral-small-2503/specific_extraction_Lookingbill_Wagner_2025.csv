@@ -1,7 +1,7 @@
 study,Methodology,Sample,ICT
-Andalibi et al 2018,NA,NA,"['Reddit', 'Facebook', 'social media platforms', 'social network sites', 'throwaway accounts', 'pseudonymous accounts', 'social media posts', 'social media comments', 'social media campaign', 'crisis hotlines']"
-Deal et al 2020,quantitative,"1,458 tweets from unique users in seven of the eight cities","Twitter, Social Media Analytic and Research Testbed (SMART) dashboard, Twitter search API, MongoDB database"
+Andalibi et al 2018,NA,NA,"['Reddit', 'Facebook', 'social media platforms', 'social network sites', 'throwaway accounts', 'pseudonymous accounts', 'social media posts', 'social media comments']"
+Deal et al 2020,quantitative,"1,458 tweets from unique users in seven of the eight cities","['Twitter', 'Social Media Analytic and Research Testbed (SMART) dashboard', 'Twitter API', 'MongoDB database']"
 Madden and Alt 2021,qualitative,NA,"Instagram, social media"
-Mendes et al 2019,"qualitative content analysis, critical discourse analysis",450 texts,"Tumblr, Twitter, smartphones"
-Modrek and Chakalov 2019,Quantitative,"11,935 tweets",Twitter
-O'Neill 2018,qualitative,176 posts,"reddit, Tumblr, Facebook, Yahoo! Answers, smartphones"
+Mendes et al 2019,"qualitative content analysis, critical discourse analysis","450 texts, 150 posts from Who Needs Feminism? Tumblr, 300 tweets from #BeenRapedNeverReported","Tumblr, Twitter, smartphones"
+Modrek and Chakalov 2019,quantitative,"11,935 tweets",Twitter
+O'Neill 2018,qualitative,"176 posts, 7000 reddit users","['reddit', 'subreddits', 'Twitter', 'Facebook', 'Tumblr', 'Yahoo! Answers', 'online forums', 'online message boards', 'chat rooms', 'blogging communities', 'social networking platforms']"
